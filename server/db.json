@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "Anime",
+      "password": "qwerty",
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2023/02/Mikasa.jpg"
+    },
+    {
+      "login": "Irvin",
+      "password": "12345",
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2023/02/Mikasa.jpg",
+      "id": 2
+    },
+    {
+      "login": "Anya",
+      "password": "12345",
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2023/02/Mikasa.jpg",
+      "id": 3
+    },
+    {
+      "login": "Mikasa",
+      "password": "12345",
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2023/02/Mikasa.jpg",
+      "id": 4
+    },
+    {
+      "login": "Sakura",
+      "password": "12345",
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2023/02/Mikasa.jpg",
+      "id": 5
+    },
+    {
+      "login": "Misa",
+      "password": "dssdsd",
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2023/02/Mikasa.jpg",
+      "id": 6
+    },
+    {
+      "login": "luaspacex",
+      "password": "qwerty",
+      "id": 7
+    },
+    {
+      "login": "luaspacex",
+      "password": "qwerty",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Re: Zero Emilia",
+      "text": "Emilia (エミリア) is the main heroine of the Re:Zero kara Hajimeru Isekai Seikatsu series. She is a half-elf and a candidate to become the 42nd King of the Dragon Kingdom of Lugunica in the Royal Selection. Debuting at the very start of the series, Emilia is arguably the most important character in the series as most events somehow revolve around her. Emilia is a very good-natured and energetic girl who likes to take care of others, though she herself sometimes refuses to admit this, instead thinking of it as her own selfishness or something everyone would do in her position despite that often not being true. Because of this, Emilia closed herself from others and not trusting people with her emotions or how she felt about different things and situations she was subjected to, as she was always of the mindset to eat it up and appear strong. This resulted in her being extremely fragile on the inside which in turned caused her to be overly childish about certain things and subjects. This led her to always relying on other people such as Puck or Subaru. Though this somewhat worked out in the first three Arcs, Emilia quickly hit a dead end in Arc 4 when she was forced to stand up for herself and stop relying on others if she wanted to overcome the predicament at the Sanctuary. A mixture of the unbearable first trial and the sudden tearing of hers and Puck's contract resulted in Emilia hitting her lowest point. Luckily, with a great deal of Subaru's and Puck's help, she was able to stand up and challenge her painful past in order to overcome the three trials presented by the Witch of Greed.",
+      "image": "https://i.pinimg.com/originals/da/17/73/da177351b6b4c559e3be45c2ff49b68f.jpg",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Darling in the Franxx Ichigo",
+      "text": "Ichigo is the former secondary antagonist, later one of the main protagonists of the DARLING in the FRANXX series. She is a Parasite with codename 015 of Thirteenth Plantation, where she is partnered in boy-girl pair with Goro to pilot a FRANXX called Delphinium. She was also the official leader of Squad 13 and is Zero Two's former rival, later ally.Due to her feelings for Hiro, she struggles between her arrogance and selfishness and her responsibilities as a leader. Out of the entire squad, she antagonizes Zero Two the most and almost succeeds in separating her from Hiro for good until she realizes that Zero Two is the only one Hiro loves, which prompts her to redeem herself and give up on her plan to separate both Hiro and Zero Two away for good for the sake of their happiness and she eventually finds a new love in Goro at the end of the series. Ichigo is an honor student who is seen as a natural-born leader. Because of her high aptitude, she was chosen as Squad 13's Leader. While normally a very considerate and level-headed girl, her crush on Hiro impairs her judgment, especially as regards to his possible partnership with Zero Two. She initially hated the possibility of a stranger like Zero Two becoming Hiro's partner. One of her motivations for agreeing to be Hiro's partner in the training match was because she believes she should be the one to bring out his full potentialю",
+      "image": "https://64.media.tumblr.com/885009395e73be44b54be678d2d373e8/tumblr_pdtlkmTOwt1sx8ybdo9_400.png",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Spy Family Anya",
+      "text": "Anya Forger (アーニャ・フォージャー, Ānya Fōjā?) is the deuteragonist of the SPY x FAMILY series. Formerly known as Test Subject 007 (被験体 007, Hikentai 007), she is a telepath whose abilities were created in an experiment conducted by an unknown organization. She is a student in Cecile Hall at Eden Academy and the adopted daughter of Loid and Yor Forger. Anya is a short young girl with fair skin and green eyes. Loid describes her as appearing about four to five years old at the oldest.[8] Her green eyes are large and oval-shaped with prominent eyelashes. She has shoulder-length, light pink hair that curls inwards with a fringe that reaches just above her eyes and a small strand of ahoge at the top of her head. Anya is noticeably shorter than most of her peers, and many of the insults that Damian and his friends target her small size. However, in Damian's view, she gains a prettier appearance. When Loid met Anya for the first time in the orphanage, she wore a simple black dress with a white ribbon at the front, along with white folded-down socks and black shoes. She also wears two black hair ornaments with bright yellow embellishments resembling small horns on the sides of her head. Anya is never seen with her hair ornaments off, even wearing them to sleep.",
+      "image": "https://i.pinimg.com/originals/46/9c/6f/469c6f7badd2745729fc122782c19ff9.jpg",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Attack on Titan Mikasa",
+      "text": "Mikasa Ackerman (ミカサ・アッカーマン Mikasa Akkāman?) is one of the two deuteragonists of the series, along with Armin Arlert.After her parents were murdered by human traffickers, Mikasa was rescued by Eren Yeager and lived with him and his parents, Grisha and Carla, before the fall of Wall Maria. She is the last descendant of the Shogun clan that stayed on Paradis Island, thereby related to the Azumabito family, and holds significant political power in Hizuru.[12] Though she desires only to live a peaceful life, Mikasa entered into the military—where she is considered the best soldier among the 104th Training Corps. She later enlists in the Survey Corps to follow and protect Eren, becoming one of its greatest assets. She is currently serving as an officer (上官 Jōkan?) in the Corps. Mikasa is a fairly tall and well-toned woman. She is of partial Asian heritage, with pale skin, gray eyes, and shaggy black hair that was long until she cut it to chin-length. By the year 854, her hair is shorter and cut up to the back of her neck, though she simultaneously wears noticeably longer bangs. She bears a tattoo of the Azumabito family crest on the outside of her right wrist. There is a small scar below her right eye, which was due to an injury delivered by Eren's Titan during the Battle of Trost District.[13] By 857, Mikasa's hair grew noticeably long and is tied in a ponytail.[14] Mikasa often wears the original Survey Corps uniform, whose equipment is horizontally at her hips, with a white blouse underneath and a black scarf that she almost always wears.[15] She also wears a green cape with the wings of freedom on the back during some missions.",
+      "image": "https://i.imgur.com/FRyJX3F.jpeg",
+      "userId": 4
+    },
+    {
+      "id": 5,
+      "title": "Naruto Anime Sakura",
+      "text": "Sakura Uchiha (うちはサクラ, Uchiha Sakura, née Haruno (春野)) is a kunoichi of Konohagakure. When assigned to Team 7, Sakura quickly finds herself ill-prepared for the duties of a shinobi. However, after training under the Sannin Tsunade, she overcomes this, and becomes recognised as one of the greatest medical-nin in the world.akura is the only child of Kizashi and Mebuki Haruno. She had an healthy childhood, raised by her parents without any serious tragedy or complications, unlike her team members. When she entered Konoha's Academy, a few of the girls in her class started picking on her because of her broad forehead. Sakura tried to combat their teasing by hiding her forehead with her bangs, but this caused the girls to bully her even more. Ino Yamanaka, one of her classmates, saw this, and defended Sakura from her bullies and encouraged her to embrace her forehead rather than hide it. Over the following years, Ino's guidance and friendship helped Sakura become comfortable with herself and develop into her own person. Though she felt indebted to Ino for helping her, Sakura began to feel that she was living in Ino's shadow when she, instead, wanted to be Ino's equal. At some point after she entered in the Academy, Sakura met Sasuke Uchiha and she developed a crush on him. When she told her friends, she was surprised to learn how popular Sasuke was with the girls. Sakura heard a rumour of Sasuke being attracted to girls with long hair and she began letting her hair grow to get his attention. A couple of years later, when she learned Ino had a crush on Sasuke, Sakura ended their friendship so that they could compete for Sasuke's love, thus beginning a bitter rivalry between them. After they were placed in their teams, Sakura approached Ino, telling her of her liking towards Sasuke. Ino revealed that she too had feelings towards him. Sakura took it to end their friendship, starting their dislike towards each other in the beginning of the series.[10]",
+      "image": "https://i.pinimg.com/736x/e6/1f/22/e61f224fd96691566eef695927c9c555.jpg",
+      "userId": 5
+    },
+    {
+      "id": 6,
+      "title": "Death Note Misa",
+      "text": "Misa Amane (弥 海砂, Amane Misa) is an up-and-coming model, actress, and supporter of Kira who eventually becomes the Second Kira. After gaining a Death Note, she seeks out Kira in order to thank him for killing the man who murdered her family and to offer him her help. Having made the trade for the Shinigami Eyes, Misa learns that the identity of Kira is Light Yagami. After a meeting with Light, she decides to dedicate her life to helping Light however she can, and becomes determined to use her eyes to uncover L's real name. Misa is a short, slender, attractive young woman with long, straight, golden-blonde hair, most commonly styled with a portion of her hair in pigtails tied with red bands, but occasionally worn loose as well. In the anime, it seems that she was a brunette at one point.[4] In the manga, her eyes are predominantly light brown; however, they have also been shown as green. She also often wears blue contact lenses. In the games, her eyes are usually light brown but have also been seen as pink. Misa also appears to have black hair in the movie, which she was wearing in pigtails throughout the film.Misa often dresses in a Gothic and Punk fashion, though noticeably less after the time skip. She also typically paints her nails bright red or dark purple and wears bright red lipstick.Misa tends to wear cross jewelry, though the crosses were changed to fleurs-de-lis in the anime adaptations (most notably on the Misa finger puppet). Despite this, Misa is depicted with a cross in the first anime opening and in her model sheet image in the liner notes of the third anime soundtrack. She also has a cross on the collector's figure included with volume 5 of the DVD sets.",
+      "image": "https://i.pinimg.com/originals/d8/6c/53/d86c53432e05d0fc178a3f4fe4c1b7cb.jpg",
+      "userId": 6
+    }
+  ]
+}
